@@ -19,4 +19,4 @@ e.g:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamnanaimanish169&show_icons=true&theme=radical)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamnanaimanish169&show_icons=true&theme=radical)
