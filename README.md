@@ -1,3 +1,5 @@
+Hi! I am Manish. I am currently building a [momentum-clone](https://github.com/pamnanaimanish169/momentum-clone-chrome-extension).
+
 ![JavaScript](https://img.shields.io/badge/javascript-grey?logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-grey?logo=typescript&logoColor=#3178C6)
 ![Firebase](https://img.shields.io/badge/firebase-grey?logo=firebase&logoColor=#FFCA28)
