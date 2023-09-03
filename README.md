@@ -46,6 +46,13 @@ I am Manish!
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamnanaimanish169&show_icons=true&theme=radical)
 
+<h1>
+:fire: Github Activity
+</h1>
+
+![](https://github.com/pamnanaimanish169/pamnanaimanish169/blob/output/github-snake-dark.svg)
+
+
 <!-- 
 
 - Replace "label" with a short label for the badge (e.g., "Framework", "Library", etc.).
